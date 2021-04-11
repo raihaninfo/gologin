@@ -127,7 +127,7 @@ If you wish to define your own failure `http.Handler`, you can get the error fro
 
 ## Mobile
 
-Twitter includes a `TokenHandler` which can be useful for building APIs for mobile devices which use Login with Twitter.
+Twitter includes a `TokenHandler` which can be useful for building APIs for mobile devices which use Login with Twitter..
 
 ## Goals
 
